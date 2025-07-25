@@ -4,8 +4,8 @@ class Solution {
         int sum=0;
         int maxSum=Integer.MIN_VALUE;
 
-        int n=nums.length;
-        for(int i=0;i<n;i++){
+        ;
+        for(int i=0;i<nums.length;i++){
             sum+=nums[i];
 
             if(sum>maxSum){
