@@ -4,7 +4,7 @@ class Solution {
         int count=0;
         int el=-1;
 
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<nums.length;i++){     
             if(count==0){
                 count=1;
                 el=nums[i];
@@ -16,7 +16,7 @@ class Solution {
                 count--;
             }
         }
-        int count1=0;
+    int count1=0;
     for(int i=0;i<nums.length;i++){
         if(nums[i]==el){
             count1++;
