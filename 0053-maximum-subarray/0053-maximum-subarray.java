@@ -1,21 +1,17 @@
 class Solution {
     public int maxSubArray(int[] nums) {
 
-        int sum=0;
-        int maxSum=Integer.MIN_VALUE;
+            int curr_sum=nums[0];
+            int max_sum=nums[0];
 
-        ;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
+            for(int i=1;i<nums.length;i++){
 
-            if(sum>maxSum){
-                maxSum=sum;
+                curr_sum=Math.max(nums[i],curr_sum+nums[i]);
+                max_sum=Math.max(max_sum,curr_sum);
+
+                
             }
-            if(sum<0){  //if sum goes negative,reset the sum to zero
-                sum=0; 
-            }
-        }
-        return maxSum;
+        return max_sum;
         
     }
 }
