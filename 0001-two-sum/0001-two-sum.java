@@ -1,17 +1,20 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
-        for(int i=0;i<nums.length;i++){
-            //Loop through every pair
-            for(int j=i+1;j<nums.length;j++){
-                //check if sum equals to target
-                if(nums[i]+nums[j]==target){
-                    return new int[]{i,j};
-                }
+        HashMap<Integer,Integer>map=new HashMap<>();
 
+        for(int i=0;i<nums.length;i++){
+            int a=nums[i];  
+
+            int b=target-a;
+
+            if(map.containsKey(b)){
+                return new int[]{i,map.get(b)};
             }
+            map.put(nums[i],i);
         }
+
         return new int[]{};
-            
+
     }
 }
