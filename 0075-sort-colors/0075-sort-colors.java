@@ -1,38 +1,35 @@
 class Solution {
 
-    public void swap(int[]nums,int start,int end){
+    public static void swap(int start,int end,int[]nums){
         int temp=nums[start];
         nums[start]=nums[end];
         nums[end]=temp;
-
     }
     public void sortColors(int[] nums) {
 
-        //By Dutch National Flag Algorithm
-
-        int low=0;
+        int n=nums.length;
 
         int mid=0;
 
-        int high=nums.length-1;
+        int low=0;
+
+        int high=n-1;
 
         while(mid<=high){
             if(nums[mid]==0){
-
-                swap(nums,low,mid);
+                swap(mid,low,nums);
                 low++;
                 mid++;
-
             }
             else if(nums[mid]==1){
                 mid++;
             }
-
             else{
-                swap(nums,mid,high);
+                swap(mid,high,nums);
                 high--;
             }
         }
+       
         
     }
 }
