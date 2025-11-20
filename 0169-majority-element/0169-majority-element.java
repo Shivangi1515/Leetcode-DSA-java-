@@ -3,31 +3,31 @@ class Solution {
 
         int count=0;
         int el=-1;
+        int n=nums.length;
 
-        for(int i=0;i<nums.length;i++){     
+        for(int i=0;i<nums.length;i++){
             if(count==0){
                 count=1;
                 el=nums[i];
             }
-            else if(nums[i]==el){
+            else if(el==nums[i]){
                 count++;
             }
             else{
                 count--;
             }
         }
-    int count1=0;
-    for(int i=0;i<nums.length;i++){
-        if(nums[i]==el){
-            count1++;
+        int count2=0;
+        for(int i=0;i<nums.length;i++){
+            if(el==nums[i]){
+                count2++;
+            }
         }
-    }
-    if(count1>(nums.length)/2){
-        return el;
-    }
-    return -1;
+        if(count2>n/2){
+            return el;
+        }
 
-        
+        return -1;
+
     }
-    
 }
