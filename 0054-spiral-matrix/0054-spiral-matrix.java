@@ -29,6 +29,7 @@ class Solution {
                 }
                 row_end--;
             }
+            //For left boundary
 
             if(col_start<=col_end){
                 for(int i=row_end;i>=row_start;i--){
