@@ -1,7 +1,7 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
 
-        //By Sliding Window Approach
+        
         int sum=0;
         int result=0;
 
