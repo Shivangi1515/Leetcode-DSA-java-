@@ -19,8 +19,10 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
+| [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
+| [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
