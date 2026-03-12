@@ -7,6 +7,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,12 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
