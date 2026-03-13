@@ -7,6 +7,7 @@ class Solution {
         }
 
         //recursion
+        //yes or no choice,whether to include the element in the subset or not.
         //include
         subset.add(nums[i]); //add current element 
         backtrack(nums,i+1,subset,ans); 
