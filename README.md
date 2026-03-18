@@ -6,6 +6,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -22,6 +23,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## String
@@ -56,4 +58,8 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
