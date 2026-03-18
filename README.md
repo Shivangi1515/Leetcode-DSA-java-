@@ -6,6 +6,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
@@ -16,6 +17,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
@@ -49,4 +52,8 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
