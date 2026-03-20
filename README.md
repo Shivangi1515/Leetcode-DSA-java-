@@ -65,9 +65,14 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
