@@ -26,6 +26,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -77,4 +79,9 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
