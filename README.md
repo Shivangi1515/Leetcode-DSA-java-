@@ -28,6 +28,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## String
@@ -74,6 +75,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
@@ -90,4 +92,16 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
