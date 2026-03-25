@@ -33,6 +33,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
