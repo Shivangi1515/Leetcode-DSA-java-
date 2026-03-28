@@ -90,6 +90,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0707-design-linked-list/) | Medium |
+| [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +115,12 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
