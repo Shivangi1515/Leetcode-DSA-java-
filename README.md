@@ -11,6 +11,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0051-n-queens](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -118,6 +121,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
