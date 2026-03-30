@@ -81,6 +81,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
@@ -99,6 +100,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
