@@ -43,6 +43,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -96,6 +98,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
