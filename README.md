@@ -38,6 +38,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## Math
@@ -107,6 +108,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
