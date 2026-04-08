@@ -17,12 +17,12 @@ class Solution {
 
         while(curr!=null){
             next=curr.next;
-            curr.next=prev; //reverse step
-            prev=curr; //move prev
-            curr=next; //move curr
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
-        head=prev;
-        return head;
+
+        return prev;
         
     }
 }
