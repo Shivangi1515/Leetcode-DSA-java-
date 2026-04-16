@@ -42,6 +42,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0141-linked-list-cycle](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -141,4 +143,12 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
