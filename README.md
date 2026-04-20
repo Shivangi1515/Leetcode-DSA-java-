@@ -13,6 +13,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0070-climbing-stairs/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
