@@ -18,6 +18,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +184,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
