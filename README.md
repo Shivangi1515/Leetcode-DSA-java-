@@ -12,6 +12,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0074-search-a-2d-matrix](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0283-move-zeroes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Binary Search
@@ -36,6 +37,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
