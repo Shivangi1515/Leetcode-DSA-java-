@@ -15,6 +15,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0283-move-zeroes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +153,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +201,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +215,8 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
