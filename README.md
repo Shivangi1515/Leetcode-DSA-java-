@@ -176,6 +176,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -200,6 +201,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -220,6 +222,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
