@@ -47,6 +47,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0125-valid-palindrome/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 ## Math
@@ -70,6 +71,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0051-n-queens](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0078-subsets/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -189,6 +192,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -201,6 +205,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
