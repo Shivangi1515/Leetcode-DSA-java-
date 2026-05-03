@@ -92,6 +92,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0011-container-with-most-water/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0148-sort-list/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +207,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +228,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0572-subtree-of-another-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +252,5 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0450-delete-node-in-a-bst](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
