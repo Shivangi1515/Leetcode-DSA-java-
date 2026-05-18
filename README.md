@@ -41,6 +41,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## String
@@ -51,6 +52,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0257-binary-tree-paths](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -262,4 +265,8 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
