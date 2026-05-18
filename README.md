@@ -15,6 +15,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0283-move-zeroes](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search
@@ -271,4 +272,8 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
