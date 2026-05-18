@@ -54,6 +54,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0443-string-compression](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0443-string-compression/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Hey There! Welcome to my leetcode problem solving repository.Here I solve atleas
 | [0901-online-stock-span](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivangi1515/Leetcode-DSA-java-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
